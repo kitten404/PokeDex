@@ -1,0 +1,15 @@
+.Cards {
+    display: inline-block;
+    margin: 10px 46px 20px 75px;
+    border: 2px solid grey;
+    border-radius: 20px;
+    padding: 1px 60px 1px 60px;
+}
+
+.title {
+    margin-left: 36%;
+}
+
+.pokeName {
+    color: blueviolet;
+}
